@@ -1,20 +1,19 @@
-## Translate App
+# React_TranslateApp_Toolkit
 
-Translate App, which provides the user with translation options in many languages, was developed using Redux Toolkit and Thunk.
+The Translate App, built using React, Redux Toolkit, and Thunk, offers users translation options in many languages. It uses React Redux for state management, Axios for HTTP requests, React Select for user-friendly dropdowns, and Tailwind CSS for styling.
 
-## Libraries
-- @redux-toolkit
-- react-redux
-- react-select
-- react-icons
-- react-dom
-- tailwind
-- axios
+# Tools and Libraries Used
 
-## API
+-react-redux,
+-@reduxjs/toolkit,
+-react-select
+-axios
+-tailwind
 
-- https://rapidapi.com/dickyagustin/api/text-translator2/playground
+# Screenshots
+
+![](1.jpg)
 
 ## Gif
 
-![](/public/translate.gif)
+![](React_TranslateApp_Toolkit)
